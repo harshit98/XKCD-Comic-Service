@@ -20,7 +20,6 @@ Link - https://youtu.be/paOWKCzcMl4
 ## Prerequisites
 
 - Go 1.14
-- [JSON to Go Converter](https://mholt.github.io/json-to-go/)
 
 ## Features
 

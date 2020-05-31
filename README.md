@@ -23,7 +23,7 @@ Link - https://youtu.be/paOWKCzcMl4
 
 ## Features
 
-1. If you run the program with any args, it will fetch latest comic book.
+1. If you run the program without any command line args, it will fetch latest comic book.
 2. You can fetch comic book according to comic book number.
 3. Provided an option if user wants to save the comic. By default, it does not save the comic.
 4. Option to print response from API in JSON format.

@@ -16,21 +16,21 @@ type ComicNumber int
 
 // Constants
 const (
-	BaseURL string = "https://xkcd.com"
+	BaseURL              string        = "https://xkcd.com"
 	DefaultClientTimeout time.Duration = 30 * time.Second
-	LatestComic ComicNumber = 0
+	LatestComic          ComicNumber   = 0
 )
 
 // XKCD client
 type XKCDClient struct {
-	client		*http.Client
-	baseURL		string
+	client  *http.Client
+	baseURL string
 }
 
 // Creates new XKCD client
 func NewXKCDClient() *XKCDClient {
 	return &XKCDClient{
-		client:  &http.Client{
+		client: &http.Client{
 			Timeout: DefaultClientTimeout,
 		},
 		baseURL: BaseURL,

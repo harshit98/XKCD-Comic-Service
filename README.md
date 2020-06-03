@@ -10,8 +10,7 @@
   </a>
 </p>
 
-> Meet Comic Ghost. He is a friendly ghost which fetches web comics for you from xkcd platform using CLI and downloads them as an image (only if you want!).
-> Just order him and he will serve you well.
+> This service fetches web comics from xkcd platform using CLI and downloads them as an image (only if you want!)
 
 ## 🎥 Demo Video
 

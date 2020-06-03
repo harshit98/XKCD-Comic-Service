@@ -1,4 +1,4 @@
-<h1 align="center">Comic Ghost 👻</h1>
+<h1 align="center">XKCD Comic Service</h1>
 <p>
     <img src='https://img.shields.io/badge/maintainer-harshit98-blue' />
   <img src="https://img.shields.io/badge/license-MIT-blue" />

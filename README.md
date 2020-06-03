@@ -33,12 +33,12 @@ Link - https://youtu.be/paOWKCzcMl4
 
 - Build `main.go`
   ```
-  go build -o ghost-bring-me-comicbook  
+  go build -o fetch-me-comicbook  
   ```
 
 - Run the executable binary file
   ```
-  ./ghost-bring-me-comicbook --num=324 --save=true --output=json 
+  ./fetch-me-comicbook --num=324 --save=true --output=json 
   ```
 
 - If you enabled `--save=true` flag, then you can find the downloaded comic within same directory.
